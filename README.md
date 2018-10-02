@@ -11,7 +11,7 @@ APIKEY is the PUBG API Key
 OWNERID is the Discord client ID of the bot owner
 
 Go to https://discordapp.com/developers/applications
-Create a new application and give a name. Then make is a bot via the Bot option in the left panel.
+Create a new application and give a name. Then make it a bot via the Bot option in the left panel.
 
 Once running, each player should add themselves to the userlist via the "!addme <PUBG USERNAME>" command. They can then use !sh, !2d, or !pubg.op to get links quickly to their particular pages.
 
