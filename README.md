@@ -5,7 +5,9 @@ Intended to access the PUBG API and record stats and match info
 In config.py:
 
 TOKEN is the Discord Bot token
+
 APIKEY is the PUBG API Key
+
 OWNERID is the Discord client ID of the bot owner
 
 Go to https://discordapp.com/developers/applications
